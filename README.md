@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArijitS21-IUT
+- 👋 Hi, I’m @Arijit Sengupta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking for job opportunities on web development
