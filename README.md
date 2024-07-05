@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arijit Sengupta
+- 👋 Hi, I’m Arijit Sengupta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking for job opportunities on web development
-- 📫 you can reach me through mail : arijitsengupta213@gmail.com
+- 📫 you can reach me through mail : arijitsengupta1976@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not a student from tier 1 college
 
