@@ -27,14 +27,8 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science and Eng
 ---
 
 ## 🌟 Highlights  
-
-### **📌 Projects:**  
-1. **[Wishplorer](#):**  
-   - A wishlist application developed during my internship at Ether Technology Solutions, Bangalore.  
-   - Built with **TypeScript**, **JavaScript**, and **Next.js**.  
-   - Led a team of 5 members to deliver a scalable and user-friendly platform.  
-
-2. **[Portfolio Website](https://github.com/arijitsengupta1976/portfolio):**  
+ 
+## **[Portfolio Website](https://github.com/arijitsengupta1976/portfolio):**  
    - A personal portfolio website showcasing my skills, education, and projects.  
    - Technologies used: **React**, **HTML**, **CSS**, **Bootstrap**, and **GitHub** for deployment.  
 
