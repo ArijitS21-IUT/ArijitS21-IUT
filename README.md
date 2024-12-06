@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science and Eng
 ## 📫 Contact Me  
 
 💌 **Email:** [arijitsengupta1976@gmail.com](mailto:arijitsengupta1976@gmail.com)  
-🌐 **LinkedIn:** [Arijit Sengupta](www.linkedin.com/in/arijit-sengupta-2278a1231)  
+🌐 **LinkedIn:** [Arijit Sengupta](https://www.linkedin.com/in/arijit-sengupta-2278a1231/)  
 
 ---
 
