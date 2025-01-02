@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science and Eng
 
 ## 🌟 Highlights  
  
-## **[Portfolio Website](https://arijits21-iut.github.io/PortFolio/):**  
+## **[Portfolio Website](https://arijits21-iut.github.io/PortFolio/)**  
    - A personal portfolio website showcasing my skills, education, and projects.  
    - Technologies used: **React**, **HTML**, **CSS**, **Bootstrap**, and **GitHub** for deployment.  
 
