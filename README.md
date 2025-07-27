@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arijit Sengupta  
 
-Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science and Engineering** student at **ICFAI University, Tripura (2021-2025)**, exploring the world of technology and innovation. With a knack for building user-centric web applications and experience in Frontend Development, I aim to craft impactful solutions.  
+Welcome to my GitHub profile! I'm a passionate **B.Tech Computer Science and Engineering** student at **ICFAI University, Tripura (2021-2025)**, exploring the world of technology and innovation. With a knack for building user-centric web applications and experience in Full Stack Development, I aim to craft impactful solutions.  
 
 ---
 
